@@ -12,3 +12,9 @@ Step 2: Data Cleansing
 Step 3: Data Preparation
 Step 4: Model Building
 Step 5: Final Analysis
+
+Analyzed the online retail compnay's data from Dec 2010 to Dec 2011 consisting of about 0.5 M records and handled missing values 
+
+Performed Feature Engineering by creating new relevant features for doing customer analysis based on factors like no of days since last purchase, no of transactions, and revenue contributed
+
+Implemented Clustering algorithms like Kmeans and Hierarchical clustering for segmenting customers with similar behavior and performed elbow method to decide optimal no of clusters 
